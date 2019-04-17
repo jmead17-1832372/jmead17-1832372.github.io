@@ -1,0 +1,97 @@
+body{
+
+}
+
+p{
+
+}
+
+h3{
+
+}
+
+li{
+
+}
+
+#Header{
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+
+}
+
+#Header h1{
+    Font-size: 60px;
+    font-family: "Passion One";
+    color: #542b72;
+    font-weight: bold;
+    width: 500px;
+    text-align: center
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+}
+
+#LeftNav{
+    text-align: center;
+    padding-bottom: 8px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+
+
+}
+
+#LeftNav img{
+  
+
+}
+
+#LeftNav ul{
+    list-style-type: none;
+    padding-bottom: 8px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+}
+
+#LeftNavh3{
+    list-style-type: none;
+    padding-bottom: 8px;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Content{
+    list-style-type: none;
+    padding: 15px;
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+
+
+}
+
+#Footer{
+    list-style-type: none;
+    padding-left: 0px;
+    text-align: center;
+    border: solid 8px black;
+
+
+}
